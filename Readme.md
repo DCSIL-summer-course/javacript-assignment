@@ -5,6 +5,9 @@
 Due: June 1st, 10pm
 
 Zip the folder before sending to Shobhit.
+# Part 0 (0 pts)
+ 
+ For science: after **fully** reading this assignment estimate how long you think it will take to complete. When you're done the assignment, and after June 1st 10pm, post your estimate and the actual time it took on basecamp.
 
 # Part 1 - Interactive Questionnaire (4 pts)
 
@@ -42,9 +45,9 @@ When the user clicks the button “process” your code will display their full 
 Using JavaScript, in part2.js, complete function `start()` so that it creates 20 `<div>`’s by repeatedly calling function `createDiv(num)` (e.g. `var div = createDiv(i)`). num should be a number from 0–19, inclusive. `createDiv(num)` will create a `<div>`, add it to the page, and return the new `<div>`. Based on rules below, your code should update the position of the `<div>` on the page.
 
 ## Rules for placement:
-* If the `<div>` is green it should be placed randomly on the left side of the webpage. 
-* If the `<div>` is blue it should be placed randomly on the right side of the webpage.
-* If the `<div>` is black it should be placed on the center of the page, but its height should be random.
+* If the `<div>` is green it should be placed randomly on the left side of the webpage. (2pts) 
+* If the `<div>` is blue it should be placed randomly on the right side of the webpage. (2pts)
+* If the `<div>` is black it should be placed on the center of the page, but its height should be random. (2pts)
 
 ## Tips
 * **Don’t try and solve this whole problem at once. Get the loop working first, then the first rule, the second and finally the third**.
